@@ -36,7 +36,7 @@ def load_data(file_path):
 
 
 # load data
-file_path = '_checkpoint1203.xlsx'  # 每次更新记得替换
+file_path = '_testpoint1208.xlsx'  # 每次更新记得替换
 all_data = load_data(file_path)
 
 # Convert BBD to date only
